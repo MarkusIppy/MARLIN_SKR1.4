@@ -5,19 +5,19 @@ This is my current Marlin 2.0.5 config
 
 Printer A10S (CR10 Clone)
 
-Modifications to Printer (current config):
+### Modifications to Printer (current config):
 
-SKR 1.4_Turbo
-SKR TMC2208 Stepper Drivers
-TFT35_V2
-5mm aluminium printbed 
-MagiDeal silicone heating mat 750W 220V 
-SSR-25 solid state relay for heatbed 
+* SKR 1.4_Turbo
+* SKR TMC2208 Stepper Drivers
+* TFT35_V2
+* 5mm aluminium printbed 
+* MagiDeal silicone heating mat 750W 220V 
+* SSR-25 solid state relay for heatbed 
 
-Planned additions (currently not in config) :
-3D Touch Level Sensor 
+### Planned additions (currently not in config) :
+* 3D Touch Level Sensor 
 
 
-# Known Bugs
+### Known Bugs
 
-Access from TFT35_V2 to SKR1.4 Turbo internal SD card not yet working , still can't find a fix for it 
+* Access from TFT35_V2 to SKR1.4 Turbo internal SD card not yet working , still can't find a fix for it 
