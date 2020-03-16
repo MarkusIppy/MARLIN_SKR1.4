@@ -12,6 +12,7 @@ SKR TMC2208 Stepper Drivers
 TFT35_V2
 5mm aluminium printbed 
 MagiDeal silicone heating mat 750W 220V 
+SSR-25 solid state relay for heatbed 
 
 Planned additions (currently not in config) :
 3D Touch Level Sensor 
