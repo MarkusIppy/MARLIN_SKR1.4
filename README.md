@@ -16,3 +16,8 @@ SSR-25 solid state relay for heatbed
 
 Planned additions (currently not in config) :
 3D Touch Level Sensor 
+
+
+# Known Bugs
+
+Access from TFT35_V2 to SKR1.4 Turbo internal SD card not yet working , still can't find a fix for it 
